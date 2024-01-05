@@ -8,4 +8,4 @@ Here is a basic guideline for searching for things. Levels, entities, and object
 * logs are log 001, log 011, or log 111
 * To add a file, you can open the write.py file
 ##Extra
-This Backrooms Archive Database allows you to view images, and lets you make youre own level, using the specially designed tex editor I made, called "clodBlex"
+This Backrooms Archive Database allows you to view images, and lets you make youre own level, using the specially designed tex editor I made, called "cloBdex"
