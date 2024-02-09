@@ -1,0 +1,29 @@
+while True:
+    choice = input()
+    if not choice or choice.isspace():
+        print('\033[H\033[J', end='')
+        print(f"{choice} does not exist.")
+        continue
+
+    else:
+        try:
+            with open(choice, 'r') as content:
+                for row in content:
+                    print(row)
+            input()
+            print('\033[H\033[J', end='')
+        except:
+            print('\033[H\033[J', end='')
+            print(f"'{choice}' hasn't been documented yet.")
+            while True:
+                documentor_choice = input(f"Would you like to document '{choice}' right now? [Y/N]: ").lower()
+                if documentor_choice == 'y':
+                    print('\033[H\033[J', end='')
+                    print("Opening the documentor ClobDex")
+                    exec(open('ClobDex.py').read())
+                    break
+                elif documentor_choice == 'n':
+                    print('\033[H\033[J', end='')
+                    break
+                else:
+                    pass
