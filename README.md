@@ -8,7 +8,7 @@ Here is a basic guideline for searching for things. Levels, entities, and object
 * To add a file, you can open the write.py file or type in a file that doesnt yet exist, then type y and press enter, this will open the ClobDex editor
 
 ## v1.5 (current)
-Version 1.5 removes the need for the external library
+Version 1.5 removes the need for the external librarys (except for tKinker)
 
 ## v1.6 (next update)
 Version 1.6 will combine the Clobdex editor and other files into one file, for less complications, some other things are:
