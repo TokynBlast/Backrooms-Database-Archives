@@ -1,5 +1,4 @@
 # Backrooms-Database-Archives
-This is in Beta, I am working on this very hard, atleast 15 new items are added every week
 ## Searching
 Here is a basic guideline for searching for things. Levels, entities, and objects are all searched the same way, and as a group are represented as `loe`
 * There are no special characters (e.g., periods)
@@ -12,7 +11,12 @@ Here is a basic guideline for searching for things. Levels, entities, and object
 Version 1.5 removes the need for the external library
 
 ## v1.6 (next update)
-Version 1.6 will combine the Clobdex editor and other files into one file, for less complications
+Version 1.6 will combine the Clobdex editor and other files into one file, for less complications, some other things are:
+more middle and last names
+More functions in ClobDex
+Removal of regular use templates in ClobDex
+Fixed templates in ClobDex
+Fixed generation in ClobDex
 
 ## Extra
 This Backrooms Archive Database allows you to view images, and lets you make youre own level, using the specially designed tex editor I made, called "cloBdex"
