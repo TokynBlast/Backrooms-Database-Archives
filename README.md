@@ -9,13 +9,18 @@ Here is a basic guideline for searching for things. Levels, entities, and object
 
 ## v1.5 (current)
 Version 1.5 removes the need for the external librarys (except for tKinker)
+
 Removal of regular use templates in ClobDex
 
 ## v1.6 (next update)
 Version 1.6 will combine the Clobdex editor and other files into one file, for less complications, some other things are:
+
 more middle and last names
+
 More functions in ClobDex
+
 Fixed templates in ClobDex
+
 Fixed generation in ClobDex
 
 ## Extra
