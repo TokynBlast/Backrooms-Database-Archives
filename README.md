@@ -1,6 +1,6 @@
 # Backrooms-Database-Archives
 ## Searching
-Here is a basic guideline for searching for things. Levels, entities, and objects are all searched the same way, and as a group are represented as `loe`
+Here is a basic guideline for searching for things. Levels, entities, and objects are all searched the same way, and as a group are represented as `LOE`
 * There are no special characters (e.g., periods)
 * When searching, you don't start with 'the'
 * __LOE__ is searched as __LOE 1__
